@@ -3,8 +3,8 @@ languageCode = "en-us"
 theme = "aafu"
 
 [params]
-    title = "Aafu theme"
-    author = "Darshan Baral"
+    title = "Leah M. Dudley"
+    author = "Leah M. Dudley"
     description = "Website title"
     copyright = "aaa"
 
@@ -30,8 +30,8 @@ theme = "aafu"
     # Profile section
     [params.profile]
         name = "Leah M. Dudley"
-		tagline = "Title"
-		location = "City Name, ST"
+		tagline = "Undergraduate Researcher"
+		location = "Athens, GA"
         photo = "profile.jpg"
 
     # Section for links to social websites
