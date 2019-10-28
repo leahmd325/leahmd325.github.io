@@ -4,14 +4,14 @@ body {
 }
 
 .profile-area {
-  background-color: #cf093f;
+  background-color: #deb3ad;
   color: white;
   box-shadow: -4px -4px 5px 2px #595659;
 }
 
 a,
 .accordion {
-  color: #cf093f;
+  color: #deb3ad;
 }
 
 a:hover,
@@ -20,11 +20,11 @@ a:hover,
 }
 
 .profile-area a {
-  color: #f8f9fa;
+  color: #deb3ad;
 }
 
 .profile-area a:hover {
-  color: #900c3f;
+  color: #deb3ad;
 }
 
 .skillbar {
@@ -33,5 +33,5 @@ a:hover,
 }
 
 #skill-percent {
-  background-color: #cf093f;
+  background-color: #deb3ad;
 }
