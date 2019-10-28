@@ -11,7 +11,7 @@ body {
 
 a,
 .accordion {
-  color: #deb3ad;
+  color: #cf093f;
 }
 
 a:hover,
@@ -20,11 +20,11 @@ a:hover,
 }
 
 .profile-area a {
-  color: #deb3ad;
+  color: #cf093f;
 }
 
 .profile-area a:hover {
-  color: #deb3ad;
+  color: #cf093f;
 }
 
 .skillbar {
