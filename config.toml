@@ -5,13 +5,13 @@ theme = "aafu"
 [params]
     title = "Leah M. Dudley"
     author = "Leah M. Dudley"
-    description = "Website title"
+    description = "Leah M. Dudley"
     copyright = "aaa"
 
     [params.theme]
         allowToggle = true
         # Available themes are 'light', 'dark', and 'pinkish'
-        mainTheme = "light"
+        mainTheme = "pinkish"
         altTheme = "dark"
         # setting false below will hide 'aafu by darshan' displayed under the profile pic
         showAttribute = true
@@ -30,8 +30,8 @@ theme = "aafu"
     # Profile section
     [params.profile]
         name = "Leah M. Dudley"
-		tagline = "Undergraduate Researcher"
-		location = "Athens, GA"
+		tagline = "Researcher"
+		location = "Chapel Hill, NC"
         photo = "profile.jpg"
 
     # Section for links to social websites
@@ -93,8 +93,8 @@ theme = "aafu"
 
     # Experience section
     [params.experience]
-        title = "Experiences"
-        icon = "fas fa-briefcase"
+        title = "Education"
+        icon = "fas fa-graduation-cap"
 
         [[params.experience.list]]
             position = "Job Title"
