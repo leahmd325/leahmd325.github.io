@@ -89,7 +89,7 @@ theme = "aafu"
     [params.aboutme]
         title = "About Me"
         icon = "fas fa-user"
-        description = "I am a researcher at UNC."
+        description = "I am a researcher at UNC!"
 
     # Experience section
     [params.experience]
